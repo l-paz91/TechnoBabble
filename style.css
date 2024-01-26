@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #2e2e2e;
+}
+
+#phraseContainer {
+    text-align: center;
+}
+
+#techPhrase {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #a8a6a6;
+}
